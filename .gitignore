@@ -1,0 +1,37 @@
+# Ignore sensitive files
+config.php
+.env
+
+# Sensitive SQL dump
+full_dump.sql
+
+
+# Ignore system files
+.DS_Store
+
+# Ignore vendor or cache if you add composer
+/vendor/
+/node_modules/
+/cache/
+config.php
+.env
+.DS_Store
+/vendor/
+/node_modules/
+/cache/
+
+# Local history
+.lh/
+
+# Dependencies (PHP / Composer)
+vendor/
+
+# Environment / secrets
+.env
+config.php
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
