@@ -16,8 +16,8 @@ if (!defined('HOTEL_TAGLINE')) define('HOTEL_TAGLINE', 'Boutique stays by the ri
 // Mailer (e.g. Mailtrap.io)
 define('MAIL_HOST', 'sandbox.smtp.mailtrap.io');
 define('MAIL_PORT', 2525);
-define('MAIL_USER', 'be4c62483da3dd');
-define('MAIL_PASS', 'f77fe1e12b6937');
+define('MAIL_USER', 'your-mailtrap-username');
+define('MAIL_PASS', 'your-mailtrap-password');
 define('MAIL_FROM_ADDR', 'no-reply@yourhotel.test');
 define('MAIL_FROM_NAME', 'The Riverside Reservations');
 
