@@ -70,7 +70,6 @@ Because the repository belonged to a teammate, I developed and tested locally an
 
 ![Find your stay section](./hotel-app5.png)
 
-##  Local Setup
 ## Local Setup (macOS with XAMPP)
 
 1. **Install XAMPP** from [apachefriends.org](https://www.apachefriends.org), open **manager-osx**, and start **Apache** and **MySQL**.
