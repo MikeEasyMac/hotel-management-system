@@ -92,7 +92,3 @@ The sample data in `schema.sql` includes a test admin account (`admin@example.co
 
 ## WordPress Version
 I later rebuilt this system as a custom WordPress plugin: [hotel-manager-wordpress](https://github.com/MikeEasyMac/hotel-manager-wordpress).
-### 1) Clone the repository
-```bash
-git clone https://github.com/kkotey14/hotel-management-system.git
-cd hotel-management-system
